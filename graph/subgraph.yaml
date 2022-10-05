@@ -6,9 +6,9 @@ dataSources:
     name: RandomWinnerGame
     network: mumbai
     source:
-      address: "0x4Ae614026dd7304195579b7798D9CC282F363067"
+      address: "0x6f9ea40D3C498E9502940DbC96728ceACFf1120c"
       abi: RandomWinnerGame
-      startBlock: 28395171
+      startBlock: 28462197
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.6
